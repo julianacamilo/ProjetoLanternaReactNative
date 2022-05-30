@@ -12,3 +12,12 @@
   <p align="center">
 <img src= "https://user-images.githubusercontent.com/104179960/171066979-e50c9a2d-40d2-4027-9cf3-1f85ad62ac76.jpg" width = "488" height="790"/>
   </p>
+
+> Conteudo:
+* Libs react-native-shake e react-native-torch
+* icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
+* StyleSheet
+* Hook useState
+* Hook useEffect
+* Add Listener to RNShake
+* Lifecicly ReactJS
